@@ -1,0 +1,30 @@
+header {
+    
+    font-family: cursive;
+    font-size: 40px;
+    color: chocolate;
+    
+}
+
+body {
+    background-color: bisque;
+    margin: auto;
+}
+
+.centered{
+    text-align: center;
+    margin:auto
+}
+
+table {
+    
+    font-size: 14px;
+}
+
+article {
+    font-size: 16px;
+    font-weight: 900;
+    margin:auto;
+    margin-left:30px;
+    margin-right:30px
+}

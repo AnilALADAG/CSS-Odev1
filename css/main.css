@@ -1,0 +1,40 @@
+
+body {
+    background-color: bisque;
+    margin: auto;
+}
+
+.centered{
+    text-align: center;
+    margin:auto
+}
+
+.centeredList {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
+
+.leftMargin {
+    text-align: left;
+    margin-left: 30px;
+    
+}
+
+header {
+    
+    font-family: cursive;
+    font-size: 40px;
+    color: chocolate;
+    
+}
+
+table {
+    
+    font-size: 14px;
+}
+
+p {
+    font-family: cursive;
+    font-size: 16px;
+}
